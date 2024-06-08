@@ -1,1 +1,1 @@
-.md = Markdown file
+.md -> Markdown file
